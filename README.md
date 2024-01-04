@@ -1,1 +1,8 @@
-# qa-server-config
+```
+bun install
+bun run dev
+```
+
+```
+open http://localhost:3000
+```
